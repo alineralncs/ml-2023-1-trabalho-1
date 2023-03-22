@@ -1,22 +1,9 @@
 # Trabalho prático 1
 
-* Nome do Aluno: ________
-* Número de Matrícula: ________
+* Nome do Aluno: Aline Rose Alencar Santos
+* Número de Matrícula: 2019214900
 * Disciplina: Aprendizado de Máquina
 * Semestre: 2023/1
-* Data: 15/03/2023
-* Data da entrega: 22/03/2023
-* Valor: 2,0
-
-> Orientações: preencher com seus dados antes da data de entrega
-
-## Como entregar este trabalho
-
-Faça um fork deste repositório e faça os commits com o código que você utilizou para chegar nos resultados. Serão aceitos os commits até a data de 22/03/2023 às 18:59:59 (antes da aula).
-
-No dia 22/03/2023 haverá uma apresentação expositiva das técnicas utilizadas e resultado.
-
-**Códigos duplicados ou com bastante semelhança terão suas notas zeradas**
 
 ## Dataset
 
@@ -31,10 +18,3 @@ Desta forma, sua tarefa será tratar a base de dados `datasets.xlsx`, analisando
 * Detecção de inconsistência e dados inválidos;
 * Detecção de outliers;
 * Detecção de dados faltantes.
-
-## Tópicos de avaliação
-
-* Detecção de dados faltantes, inconsistências, dados inválidos e outliers utilizando métodos presentes na literatura;
-* Detalhamento e justificativa das técnicas utilizadas;
-* Análise dos códigos entregues;
-* Apresentação expositiva dos resultados.
